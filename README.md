@@ -19,14 +19,17 @@ Please note that this tool cannot identify cheats not sent over the network to b
 * The quality of life portion of this mod includes:
 * Accurate ping measurements to each player, complete with basic statistics such as minimum, maximum, and average ping.
 * Integration of Steam blocking for malicious players
-* Save backups when entering a new multiplayer session
-* Invasion overhaul, where using the cracked red eye orb will search all maps for potential invasions, as opposed to just the place you're in, similar to the Wex Dust﻿* mod for Dark Souls III
+* Save backups when entering a new multiplayer session*
+* Invasion overhaul, where using the cracked red eye orb will search all maps for potential invasions, as opposed to just the place you're in, similar to the Wex Dust﻿** mod for Dark Souls III
 * The cracked red eye and blue eye orbs are no longer consumed on use
 * You can view your session time remaining in the overlay
 * You can enable infinite SM matchmaking upwards (meaning you will be able to invade anyone above your current SM)
 * You can see whether the host of the world has a giant seed active which makes enemies aggressive toward invaders
 
-*Wex dust is an invasion QoL mod which removes the map restrictions when searching for invasions. This means you can invade anyone, anywhere so long as they are in your matchmaking range and in an online enabled area.
+* Backups can be found in %appdata%\DarkSoulsII\(YourSteamID64) and are named "(timestamp)DS2SOFS0000.sl2.bak"
+
+** Wex dust is an invasion QoL mod which removes the map restrictions when searching for invasions. This means you can invade anyone, anywhere so long as they are in your matchmaking range and in an online enabled area.
+
 
 All of these are optional features for the mod, and can either be toggled in the BlueAcolytePref.ini file, or switched on/off in-game using the assigned hotkeys to do so at runtime.
 
