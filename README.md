@@ -26,7 +26,7 @@ Please note that this tool cannot identify cheats not sent over the network to b
 * You can enable infinite SM matchmaking upwards (meaning you will be able to invade anyone above your current SM)
 * You can see whether the host of the world has a giant seed active which makes enemies aggressive toward invaders
 
-* Backups can be found in %appdata%\DarkSoulsII\(YourSteamID64) and are named "(timestamp)DS2SOFS0000.sl2.bak"
+*Backups can be found in %appdata%\DarkSoulsII\(YourSteamID64) and are named "(timestamp)DS2SOFS0000.sl2.bak"
 
 ** Wex dust is an invasion QoL mod which removes the map restrictions when searching for invasions. This means you can invade anyone, anywhere so long as they are in your matchmaking range and in an online enabled area.
 
